@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.412,=M:\develop\radstudio\src\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.102,=M:\develop\radstudio\src\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.589,=M:\develop\radstudio\src\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.678,=M:\develop\radstudio\src\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.184,=M:\develop\radstudio\src\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.410,=M:\develop\radstudio\src\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.850,=M:\develop\radstudio\src\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.234,M:\develop\radstudio\src\demos\komponenten\eigene\extendedclipboard\Project1.dproj=M:\develop\radstudio\src\demos\komponenten\eigene\extendedclipboard\Project1.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.958,M:\develop\radstudio\src\Project1.dproj=M:\develop\radstudio\src\demos\komponenten\eigene\extendedclipboard\Project1.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.045,M:\develop\radstudio\src\Unit1.dfm=M:\develop\radstudio\src\demos\komponenten\eigene\extendedclipboard\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.518,=M:\develop\radstudio\src\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.363,M:\develop\radstudio\src\demos\komponenten\eigene\extendedclipboard\Project1.dproj=M:\develop\radstudio\src\demos\komponenten\eigene\extendedclipboard\Project1.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.085,M:\develop\radstudio\src\demos\komponenten\eigene\extendedclipboard\Project1.dproj=M:\develop\radstudio\src\demos\komponenten\eigene\extendedclipboard\Project1.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.411,=M:\develop\radstudio\src\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.582,=M:\develop\radstudio\src\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.032,=M:\develop\radstudio\src\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.555,=M:\develop\radstudio\src\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.693,=M:\develop\radstudio\src\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.958,=M:\develop\radstudio\src\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.857,=M:\develop\radstudio\src\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.367,=M:\develop\radstudio\src\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.989,=M:\develop\radstudio\src\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.382,=M:\develop\radstudio\src\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.998,=M:\develop\radstudio\src\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.045,M:\develop\radstudio\src\Unit1.pas=M:\develop\radstudio\src\demos\komponenten\eigene\extendedclipboard\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.786,=M:\develop\radstudio\src\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.525,=M:\develop\radstudio\src\Unit1.pas</Transaction>
+  </Transactions>
+</BorlandProject>
